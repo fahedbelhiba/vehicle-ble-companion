@@ -1,1 +1,2 @@
 [2024-11-27 11:39:00 +0200] chore: initial project setup, add build.gradle.kts and .gitignore
+[2024-12-01 17:55:00 +0200] feat: scaffold MVVM architecture with ViewModel and StateFlow
