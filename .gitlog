@@ -2,3 +2,4 @@
 [2024-12-01 17:55:00 +0200] feat: scaffold MVVM architecture with ViewModel and StateFlow
 [2024-12-03 18:38:00 +0200] feat: add BLE scanner with ScanCallback and device filter by name prefix
 [2024-12-26 13:35:00 +0200] feat: implement GATT client connection and service discovery
+[2024-12-29 18:29:00 +0200] feat: add MTU negotiation (512 bytes) for high-throughput telemetry
