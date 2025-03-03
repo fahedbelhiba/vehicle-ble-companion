@@ -8,3 +8,4 @@
 [2025-01-28 13:15:00 +0200] feat: parse telemetry payload - SoC%, range_km, cabin_temp_c
 [2025-01-30 09:10:00 +0200] feat: implement RSSI-based proximity zone detection (threshold -65 dBm)
 [2025-02-27 13:16:00 +0200] feat: add hands-free unlock trigger on proximity entry
+[2025-03-03 15:18:00 +0200] refactor: extract BleConnectionManager into separate service class
