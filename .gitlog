@@ -10,3 +10,4 @@
 [2025-02-27 13:16:00 +0200] feat: add hands-free unlock trigger on proximity entry
 [2025-03-03 15:18:00 +0200] refactor: extract BleConnectionManager into separate service class
 [2025-03-26 14:03:00 +0200] feat: add remote command encoder (lock/unlock, thermal preconditioning)
+[2025-03-29 09:44:00 +0200] test: add unit tests for BLE command encoding and payload parsing
