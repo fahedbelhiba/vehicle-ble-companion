@@ -13,3 +13,4 @@
 [2025-03-29 09:44:00 +0200] test: add unit tests for BLE command encoding and payload parsing
 [2025-04-25 10:33:00 +0200] fix: resolve NPE in GATT callback on rapid disconnect/reconnect cycles
 [2025-04-28 16:13:00 +0200] feat: add reconnection watchdog coroutine with 30s interval
+[2025-05-26 14:46:00 +0200] refactor: migrate to Kotlin coroutines flow for BLE event streaming
