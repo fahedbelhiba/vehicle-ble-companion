@@ -16,3 +16,4 @@
 [2025-05-26 14:46:00 +0200] refactor: migrate to Kotlin coroutines flow for BLE event streaming
 [2025-06-27 10:44:00 +0200] feat: add UI dashboard - real-time SoC gauge and temperature display
 [2025-07-25 12:58:00 +0200] fix: correct byte order (little-endian) in telemetry float parsing
+[2025-08-28 14:41:00 +0200] feat: add BLE bond management and pairing request handler
