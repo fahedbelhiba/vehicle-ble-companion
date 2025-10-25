@@ -18,3 +18,4 @@
 [2025-07-25 12:58:00 +0200] fix: correct byte order (little-endian) in telemetry float parsing
 [2025-08-28 14:41:00 +0200] feat: add BLE bond management and pairing request handler
 [2025-09-26 15:39:00 +0200] chore: update dependencies, target SDK 34, add ProGuard rules
+[2025-10-25 15:50:00 +0200] test: add integration tests for proximity detection state machine
