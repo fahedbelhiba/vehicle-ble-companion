@@ -20,3 +20,4 @@
 [2025-09-26 15:39:00 +0200] chore: update dependencies, target SDK 34, add ProGuard rules
 [2025-10-25 15:50:00 +0200] test: add integration tests for proximity detection state machine
 [2025-11-27 15:39:00 +0200] feat: add notification channel for background telemetry alerts
+[2025-12-26 14:27:00 +0200] fix: memory leak in BLE scan filter - unregister receiver on destroy
