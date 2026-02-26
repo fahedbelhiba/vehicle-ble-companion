@@ -22,3 +22,4 @@
 [2025-11-27 15:39:00 +0200] feat: add notification channel for background telemetry alerts
 [2025-12-26 14:27:00 +0200] fix: memory leak in BLE scan filter - unregister receiver on destroy
 [2026-01-25 18:18:00 +0200] refactor: split UI layer into composables, adopt Jetpack Compose
+[2026-02-26 12:02:00 +0200] feat: add dark mode support and adaptive icon
