@@ -24,3 +24,4 @@
 [2026-01-25 18:18:00 +0200] refactor: split UI layer into composables, adopt Jetpack Compose
 [2026-02-26 12:02:00 +0200] feat: add dark mode support and adaptive icon
 [2026-04-25 17:06:00 +0200] docs: write comprehensive README with architecture diagram and setup guide
+[2026-06-25 14:57:00 +0200] chore: bump version to 1.0.0, finalize release build config
