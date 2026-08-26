@@ -25,3 +25,4 @@
 [2026-02-26 12:02:00 +0200] feat: add dark mode support and adaptive icon
 [2026-04-25 17:06:00 +0200] docs: write comprehensive README with architecture diagram and setup guide
 [2026-06-25 14:57:00 +0200] chore: bump version to 1.0.0, finalize release build config
+[2026-08-26 13:01:00 +0200] fix: edge case - handle empty scan results on first cold start
